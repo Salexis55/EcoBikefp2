@@ -8,5 +8,6 @@
   <modules>
     <module>productservice</module>
     <module>userservice</module>
+    <module>statisticsservice</module>
   </modules>
 </project>
